@@ -1,0 +1,28 @@
+name: janiferjwheeler
+favicon: null
+layout_spectrum: 0.9282001717947423
+typography_spectrum: 0.13088836893439293
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7309999442659318
+  lightness: 0.3719662360381335
+  saturation: 0.09287973749451339
+  rhythmicContrast: 0.025692270370200276
+purpose: []
